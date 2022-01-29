@@ -1,2 +1,2 @@
-# python_code_AI
+### python_code_AI
 learning note
